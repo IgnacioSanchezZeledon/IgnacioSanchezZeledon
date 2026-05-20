@@ -20,6 +20,7 @@ Software professional with 2 years of experience spanning **frontend development
 Lately I've been moving deeper into **data engineering** — understanding how data flows, how it should be structured, and building around that.
 
 CS graduate from **UCR**. Always happy to connect.
+
 ---
 
 ## 💼 Experience
