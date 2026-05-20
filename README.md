@@ -15,8 +15,11 @@
 
 ## 👨‍💻 About Me
 
-Data engineer with 2 years of experience using SQL and Python on production systems. Built an end-to-end pipeline on **GCP with BigQuery and Airflow**. CS background with foundations in data analysis and ML.
+Software professional with 2 years of experience spanning **frontend development** and **technical support**. I enjoy tracing problems to their root cause and making sure they don't come back.
 
+Lately I've been moving deeper into **data engineering** — understanding how data flows, how it should be structured, and building around that.
+
+CS graduate from **UCR**. Always happy to connect.
 ---
 
 ## 💼 Experience
