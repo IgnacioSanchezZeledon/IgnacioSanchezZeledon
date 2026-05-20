@@ -59,17 +59,17 @@ CS graduate from **UCR**. Always happy to connect.
 
 ## 🚀 Featured Projects
 
-### ✈️ [Flight Tracking Data Pipeline on GCP](https://github.com/IgnacioSanchezZeledon/Flight-Tracking-Data-Pipeline-on-GCP)
+###  [Flight Tracking Data Pipeline on GCP](https://github.com/IgnacioSanchezZeledon/Flight-Tracking-Data-Pipeline-on-GCP)
 Pipeline that ingests real-time flight data from the **OpenSky API**, stores raw snapshots, and loads normalized data into **BigQuery** with a layered architecture (raw → staging) and Airflow orchestration.
 
 `Python` · `BigQuery` · `GCP` · `Airflow`
 
-### 🛡️ [Sentinel Fraud Pipeline](https://github.com/IgnacioSanchezZeledon/sentinel-fraud-pipeline) · *In Progress*
+###  [Sentinel Fraud Pipeline](https://github.com/IgnacioSanchezZeledon/sentinel-fraud-pipeline) · *In Progress*
 Data pipeline focused on fraud detection workflows, built with reproducibility and modularity in mind.
 
 `Python` · `Data Engineering` · `Make`
 
-### 🎓 Graduate Dropout Prediction
+###  Graduate Dropout Prediction
 Classification models (**MLP, XGBoost**) with **SHAP** interpretability to predict student dropout risk.
 
 `Python` · `scikit-learn` · `Pandas` · `SHAP`
@@ -96,5 +96,5 @@ Classification models (**MLP, XGBoost**) with **SHAP** interpretability to predi
 ---
 
 <p align="center">
-  <i>Open to data engineering opportunities 🚀</i>
+  <i>Open to data engineering opportunities </i>
 </p>
