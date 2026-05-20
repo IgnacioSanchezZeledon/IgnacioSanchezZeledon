@@ -47,36 +47,13 @@ CS graduate from **UCR**. Always happy to connect.
 
 ## 🛠️ Technical Skills
 
-**Languages**
-
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Data Engineering**
-
-![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![ETL](https://img.shields.io/badge/-ETL%2FELT-5C2D91?style=for-the-badge&logo=databricks&logoColor=white)
-![Data Modeling](https://img.shields.io/badge/-Data%20Modeling-FF6F00?style=for-the-badge)
-![Data Quality](https://img.shields.io/badge/-Data%20Quality-009688?style=for-the-badge)
-
-**Cloud & Big Data**
-
 ![GCP](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/-BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white)
-![GCS](https://img.shields.io/badge/-Cloud%20Storage-AECBFA?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-**Libraries & Tools**
-
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![DataGrip](https://img.shields.io/badge/-DataGrip-000000?style=for-the-badge&logo=datagrip&logoColor=white)
 
 ---
 
