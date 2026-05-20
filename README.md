@@ -24,14 +24,14 @@ Data engineer with 2 years of experience using SQL and Python on production syst
 ### 🔹 Data Support Analyst
 **Establishment Labs** · *Jan 2025 – Present*
 
-- 🔍 Resolve **50–60 weekly data incidents** using SQL and database analysis.
-- 🛠️ Execute bulk updates on **300+ records** across regional datasets.
-- 🐍 Develop **Python scripts** for transformations and batch corrections.
+- Resolve **50–60 weekly data incidents** using SQL and database analysis.
+- Execute bulk updates on **300+ records** across regional datasets.
+- Develop **Python scripts** for transformations and batch corrections.
 
 ### 🔹 Frontend Developer
 **Establishment Labs** · *Jul 2024 – Jan 2025*
 
-- 💻 Built **React** web apps integrated with backend REST APIs.
+- Built **React** web apps integrated with backend REST APIs.
 
 ---
 
@@ -82,6 +82,11 @@ Data engineer with 2 years of experience using SQL and Python on production syst
 Pipeline that ingests real-time flight data from the **OpenSky API**, stores raw snapshots, and loads normalized data into **BigQuery** with a layered architecture (raw → staging) and Airflow orchestration.
 
 `Python` · `BigQuery` · `GCP` · `Airflow`
+
+### 🛡️ [Sentinel Fraud Pipeline](https://github.com/IgnacioSanchezZeledon/sentinel-fraud-pipeline) · 🚧 *In Progress*
+Data pipeline focused on fraud detection workflows, built with reproducibility and modularity in mind.
+
+`Python` · `Data Engineering` · `Make`
 
 ### 🎓 Graduate Dropout Prediction
 Classification models (**MLP, XGBoost**) with **SHAP** interpretability to predict student dropout risk.
