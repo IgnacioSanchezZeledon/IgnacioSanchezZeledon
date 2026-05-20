@@ -87,7 +87,7 @@ Pipeline that ingests real-time flight data from the **OpenSky API**, stores raw
 
 `Python` · `BigQuery` · `GCP` · `Airflow`
 
-### 🛡️ [Sentinel Fraud Pipeline](https://github.com/IgnacioSanchezZeledon/sentinel-fraud-pipeline) · 🚧 *In Progress*
+### 🛡️ [Sentinel Fraud Pipeline](https://github.com/IgnacioSanchezZeledon/sentinel-fraud-pipeline) · *In Progress*
 Data pipeline focused on fraud detection workflows, built with reproducibility and modularity in mind.
 
 `Python` · `Data Engineering` · `Make`
